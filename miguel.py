@@ -47,3 +47,12 @@ class Prestamo:
         self.usuario = usuario
         self.libro = libro
         self.fecha = fecha
+
+
+
+#definicion de los libros on (Nombre, Autor, Genero)
+
+libro1=Libro("La peste","Albert Camus","Ficcion")
+libro2=Libro("Noches Blancas","Fiodor Dostoievski","Ficcion")
+libro3=Libro("El extranjero","Albert Camus","Absurdo")
+libro4=Libro("El túnel","Ernesto Sábato","psicológica")
