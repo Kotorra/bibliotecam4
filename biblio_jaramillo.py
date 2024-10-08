@@ -81,11 +81,11 @@ class AdministradorUsuarios:
         print("Usuario registrado con éxito.")
 
 
-# Crear instancias de administradores
+# aqui se creara instancias de administradores
 administrador_libros = AdministradorLibros()
 administrador_usuarios = AdministradorUsuarios()
 
-# Inicializar la biblioteca con algunos libros
+# libros de prueba para ver la funcionalidad del programa.
 libro_1 = Libro("La peste", "Albert Camus", "00001")
 libro_2 = Libro("Noches Blancas", "Fiodor Dostoievski", "00002")
 libro_3 = Libro("El extranjero", "Albert Camus", "00003")
